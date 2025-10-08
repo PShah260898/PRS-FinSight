@@ -1,0 +1,9 @@
+﻿streamlit
+pandas
+plotly
+yfinance
+python-dotenv
+bcrypt
+feedparser
+requests
+feedparser

@@ -1,0 +1,8 @@
+﻿[theme]
+base = "light"
+
+[client]
+toolbarMode = "auto"
+
+[server]
+runOnSave = true

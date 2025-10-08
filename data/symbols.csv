@@ -1,0 +1,24 @@
+﻿symbol,name,type,country,sector
+AAPL,Apple Inc,stock,United States,Technology
+MSFT,Microsoft Corp,stock,United States,Technology
+NVDA,NVIDIA Corp,stock,United States,Technology
+AMZN,Amazon.com Inc,stock,United States,Consumer Discretionary
+GOOGL,Alphabet Class A,stock,United States,Communication Services
+TSLA,Tesla Inc,stock,United States,Consumer Discretionary
+META,Meta Platforms,stock,United States,Communication Services
+V,Visa Inc,stock,United States,Financials
+JPM,JPMorgan Chase,stock,United States,Financials
+XOM,Exxon Mobil,stock,United States,Energy
+SPY,SPDR S&P 500 ETF,etf,United States,Index
+QQQ,Invesco QQQ Trust,etf,United States,Index
+VTSAX,Vanguard Total Stock Market Index Fund Admiral,mutual_fund,United States,Index
+VFIAX,Vanguard 500 Index Fund Admiral,mutual_fund,United States,Index
+BTC-USD,Bitcoin,crypto,Global,Crypto
+ETH-USD,Ethereum,crypto,Global,Crypto
+SOL-USD,Solana,crypto,Global,Crypto
+TCS.NS,Tata Consultancy Services,stock,India,Information Technology
+RELIANCE.NS,Reliance Industries,stock,India,Energy
+HDFCBANK.NS,HDFC Bank,stock,India,Financials
+INFY.NS,Infosys,stock,India,Information Technology
+ICICIBANK.NS,ICICI Bank,stock,India,Financials
+NIPPONIND.NS,Nippon India Nifty 50 Bees,etf,India,Index
