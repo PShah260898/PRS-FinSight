@@ -1,9 +1,7 @@
-﻿streamlit
+﻿streamlit==1.50.0
 pandas
 plotly
 yfinance
-python-dotenv
-bcrypt
-feedparser
 requests
+python-dotenv
 feedparser
